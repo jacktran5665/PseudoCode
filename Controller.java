@@ -1,6 +1,5 @@
 // method decider()
-
-
+// fetch question+answer variable = answer
 // if (player.choice != answer) {
 //     gun()
 // }
