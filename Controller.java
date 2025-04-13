@@ -2,20 +2,38 @@
 // fetch question+answer variable = answer
 // if (player.choice != answer) {
 //     gun()
+//     fire = false;
+//     if gun() == fire {
+//         # of bullet++;
+//         initGun()
+//     }  
 // }
 // switch()
 
+// method switch()
+// current player = next player
+// if gun == fire {
+//       previous player = DEL
+// }
 
+// method corrector()
+// random
+// if !fire and round >= 2 {
+//    chose a randomPlayer;
+//    gun()
+//    if fire
+//       # of bullets++
+//       initGun()
+// fire = false   
 
-
+// method init()
 // if player == initial # of player 
 // intialize all script
 //
 
-// method tmp()
-// 
-
-
+// displayWinner()
+// if # of player == 1 {
+// display winner
 
 // method getdata()
 // fetch data from question storage script(question, options, answer)
